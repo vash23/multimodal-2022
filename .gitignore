@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.h5*
+evaluation_ids.csv
+sample_submission.csv
+metadata.csv
+scratch.R
+*.Rproj
+*.pdf
